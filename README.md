@@ -86,20 +86,4 @@ ping 192.168.30.1
 - Configure router subinterfaces for Inter-VLAN communication.
 - Develop Layer 2 and Layer 3 troubleshooting skills.
 
-## Repository Contents
 
-- Cisco Packet Tracer topology file
-- Network configuration screenshots
-- Connectivity test screenshots
-- Lab documentation
-
-## Project Status
-
-Update this section after completing and verifying the implementation.
-
-**Status:** In Progress
-
-## Author
-
-BICT Undergraduate | Networking Specialization  
-University of Sri Jayewardenepura
